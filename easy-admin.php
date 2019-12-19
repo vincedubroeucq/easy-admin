@@ -2,7 +2,7 @@
 /*
 Plugin Name: Easy Admin
 Description: This allows you to simply hide some admin menu items. Super simple.
-Version:     1.0.1
+Version:     1.0.3
 Author:      Vincent Dubroeucq
 Author URI:  https://vincentdubroeucq.com
 License:     GPL2

@@ -3,8 +3,8 @@ Contributors: vincentdubroeucq
 Donate link: http://vincentdubroeucq.com
 Tags: admin-area, admin, dashboard, admin menu
 Requires at least: 4.0
-Tested up to: 4.8
-Stable tag: 1.0.1
+Tested up to: 5.3.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,8 +36,14 @@ If you have any questions, contact me via my website at [https://vincentdubroeuc
 
 == Changelog ==
 
+= 1.0.3 =
+* Tested with WordPress 5.3.2.
+
+= 1.0.2 =
+* Tested with WordPress 5.0.1.
+
 = 1.0.1 =
-* Initial release.
+* Fixed compatibility issue with older versions of PHP.
 
 = 1.0.0 =
 * Initial release.
@@ -49,6 +55,9 @@ If you have any questions, contact me via my website at [https://vincentdubroeuc
 No. Else it won't be 'Easy' anymore. Not yet. But why not later ?
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+Tested with WordPress 5.0.1.
 
 = 1.0.1 =
 Fixed compatibility issue with older versions of PHP.
